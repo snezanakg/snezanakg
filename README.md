@@ -30,13 +30,13 @@ I love building clean, user-friendly interfaces and learning new web technologie
 ### 🔬 **Semester Project 1 - Science Museum**(revision)
 **Description:** A website showcasing interactive museum exhibitions.  
 🔗 **GitHub:** [Semester Project](https://github.com/snezanakg/Semester-Project-1)  
-
+**Link** [Semester Project] (https://snezanakg.github.io/Semester-Project-1/)
 ---
 
 ### 📊 **Exam Project 1**
 **Description:** A frontend development exam project showcasing advanced JavaScript.  
 🔗 **GitHub:** [Exam Project 1](https://github.com/NoroffFEU/FED1-PE1-snezanakg)  
-
+**Link** [exam project1] (https://swfood.netlify.app/)
 
 ---
 
