@@ -24,24 +24,19 @@ I love building clean, user-friendly interfaces and learning new web technologie
 ### 🛍️ **Rainy Days - Jacket Store** _(Resit in Progress)_
 **Description:** E-commerce website selling jackets. Currently improving JavaScript functionality.  
 🔗 **GitHub:** [Rainy Days Repo](https://github.com/snezanakg/html-css-CA)  
-📸 **Teaser Image:**  
-![Rainy Days](https://github.com/snezanakg/PORTFOLIO-1/blob/main/assets/images/placeholder.png)
 
 ---
 
 ### 🔬 **Semester Project 1 - Science Museum**(revision)
 **Description:** A website showcasing interactive museum exhibitions.  
 🔗 **GitHub:** [Semester Project](https://github.com/snezanakg/Semester-Project-1)  
-📸 **Teaser Image:**  
-![Science Museum](https://github.com/snezanakg/PORTFOLIO-1/blob/main/assets/images/semester-project1.jpg)
 
 ---
 
 ### 📊 **Exam Project 1**
 **Description:** A frontend development exam project showcasing advanced JavaScript.  
 🔗 **GitHub:** [Exam Project 1](https://github.com/NoroffFEU/FED1-PE1-snezanakg)  
-📸 **Teaser Image:**  
-![Exam Project1](https://github.com/snezanakg/PORTFOLIO-1/blob/main/assets/images/exam1%20(1).jpg)
+
 
 ---
 
