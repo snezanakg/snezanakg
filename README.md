@@ -1,50 +1,80 @@
 
 
-# 👋 Hello, I'm Snezana Kragujevac!
 
-🚀 **Frontend Developer** | 🎨 Passionate about UI/UX | 📍 Based in Gothenburg
+👋 Hi, I'm Snezana Kragujevac
 
-Welcome to my GitHub! I'm a frontend developer currently studying at **NoroffFEU (FED MAR24)**.  
-I specialize in **HTML, CSS, JavaScript, and Responsive Web Design**.  
-I love building clean, user-friendly interfaces and learning new web technologies.  
+Junior Frontend Developer
+📍 Gothenburg, Sweden
 
----
+I’m a frontend developer with a strong focus on clean UI, responsive design, and structured code. I recently completed my Frontend Development studies at Noroff and enjoy building modern web applications using React and JavaScript.
 
-## 🔥 My Tech Stack
-**Languages & Technologies I Use:**
-- HTML5
-- CSS3
-- JavaScript
-- GitHub
+I’m passionate about creating user-friendly interfaces, improving accessibility, and continuously refining my development workflow.
 
----
+💻 Tech Stack
 
-## 📌 Featured Projects
+Frontend
 
-### 🛍️ **Rainy Days - Jacket Store** _(Resit in Progress)_
-**Description:** E-commerce website selling jackets. Currently improving JavaScript functionality.  
-🔗 **GitHub:** [Rainy Days Repo](https://github.com/snezanakg/html-css-CA)  
+HTML5
 
----
+CSS3
 
-### 🔬 **Semester Project 1 - Science Museum**(revision)
-**Description:** A website showcasing interactive museum exhibitions.  
-🔗 **GitHub:** [Semester Project](https://github.com/snezanakg/Semester-Project-1)  
-**Link** [Semester Project] (https://snezanakg.github.io/Semester-Project-1/)
----
+Tailwind CSS
 
-### 📊 **Exam Project 1**
-**Description:** A frontend development exam project showcasing advanced JavaScript.  
-🔗 **GitHub:** [Exam Project 1](https://github.com/NoroffFEU/FED1-PE1-snezanakg)  
-**Link** [exam project1] (https://swfood.netlify.app/)
+JavaScript (ES6+)
 
----
+React
 
-## 📫 Contact Me
-📧 **Email:** [sneza.kragujevac@gmail.com](mailto:sneza.kragujevac@gmail.com)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/snezana-k-a03693102?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKfXnMMCgSjWUcTle07JV6Q%3D%3D)  
+TypeScript
 
----
+Tools & Workflow
 
-⭐ **Thanks for visiting my profile!**  
-💡 _Let’s build something great together!_ 🚀
+Git & GitHub
+
+Vite
+
+Netlify
+
+Figma (for design collaboration)
+
+🚀 Featured Projects
+🧥 Rainy Days – E-commerce Store
+
+A responsive e-commerce website focused on product presentation and user interaction.
+Improvements include enhanced responsiveness and improved JavaScript structure.
+
+🔗 GitHub: https://github.com/snezanakg/html-css-CA
+
+🔬 Semester Project – Science Museum
+
+An interactive museum website with focus on layout, accessibility, and responsive design.
+
+🔗 GitHub: https://github.com/snezanakg/Semester-Project-1
+
+🌐 Live Site: https://snezanakg.github.io/Semester-Project-1/
+
+🍽️ Exam Project – Food Web Application
+
+A frontend application demonstrating JavaScript functionality and dynamic content handling.
+
+🔗 GitHub: https://github.com/NoroffFEU/FED1-PE1-snezanakg
+
+🌐 Live Site: https://swfood.netlify.app/
+
+📌 Current Focus
+
+Strengthening React & TypeScript skills
+
+Writing cleaner, scalable component structures
+
+Improving accessibility and performance
+
+Building production-ready frontend applications
+
+📫 Contact
+
+📧 Email: sneza.kragujevac@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/snezana-k-a03693102
+
+⭐ Thank you for visiting my profile.
+I’m open to junior frontend developer opportunities and collaboration.
